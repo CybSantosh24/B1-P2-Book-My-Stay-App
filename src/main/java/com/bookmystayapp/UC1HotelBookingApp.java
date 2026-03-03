@@ -1,4 +1,4 @@
-package com.bookmystay.app;
+package com.bookmystayapp;
 
 /**
  * ================================================================
